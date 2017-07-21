@@ -83,5 +83,9 @@
     _secondPointer.transform = CGAffineTransformMakeRotation(secondAngle);
 }
 
+- (void)dealloc{
+    [_timer invalidate];
+    _timer = nil;
+}
 
 @end
