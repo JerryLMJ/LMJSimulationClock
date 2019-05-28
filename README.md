@@ -2,4 +2,4 @@
 # LMJSimulationClock
 
 一个用Swift语言实现的模拟时钟⏰
-![](https://github.com/JerryLMJ/LMJVerticalScrollText/raw/master/demo1.gif) 
+![](https://github.com/JerryLMJ/LMJSimulationClock/raw/master/demo1.gif) 
